@@ -1,7 +1,3 @@
-# Networking ACW
-
-ACW for 'Networking and User Interface Design' (500081).
-
 ## Location (LocationClient)
 
 Client for getting and setting someones location on a server using TCP.
